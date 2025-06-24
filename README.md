@@ -1,6 +1,6 @@
 # DSA-Project
 
-## [Project Documentation](https://github.com/koresellskills/DSA-Project/edit/main/README.md#project-documentation-1)
+[Project Documentation](https://github.com/koresellskills/DSA-Project/edit/main/README.md#project-documentation-1)
 
 ### Project Overview 
 
