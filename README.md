@@ -1,6 +1,6 @@
 # DSA-Project
 
-## [Project Documentation]()
+## [Project Documentation](https://github.com/koresellskills/DSA-Project/edit/main/README.md#project-documentation-1)
 
 ### Project Overview 
 
@@ -11,4 +11,4 @@
 [Excel Functions 1 - Numbers.xlsx](https://github.com/user-attachments/files/20879182/Excel.Functions.1.-.Numbers.xlsx)
 
 
-Project Documentation
+#### Project Documentation
