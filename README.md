@@ -81,7 +81,7 @@ USB Cables and HDMI Adapters
 
 #### See the Analyzed Data Here 
 
-[FIle of the Outcome for the Analysis]
+[FIle of the Outcome for the Analysis](https://github.com/koresellskills/DSA-Project/blob/main/Amazon%20case%20study.xlsx)
 
 ### Dashboard Preview
 
