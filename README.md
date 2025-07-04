@@ -66,7 +66,7 @@ Potential Revenue Leaders: Electronics category had the highest total review-wei
 [Excel Functions 1 - Numbers.xlsx](https://github.com/user-attachments/files/20879182/Excel.Functions.1.-.Numbers.xlsx)
 
 
-#### Recommendations
+### Recommendations
 Adjust discounting strategy: High-discount products often have lower ratings — quality control or price anchoring may be needed
 
 Leverage best-rated products: Feature them in advertising or bundles
