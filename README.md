@@ -105,3 +105,8 @@ USB Cables and HDMI Adapters
 
 - Explore review-driven pricing: Consider giving discounts to boost new product visibility
 
+##### Author: Ri-EL
+
+##### Role: Data Analyst in training (Unilorin BME)
+
+##### Reach Me: ajeawesome01@gmail.com
