@@ -39,9 +39,17 @@ Microsoft Excel [Download Here](https://www.microsoft.com)
 
 ### Data Cleaning Process
 
-- Removed leading/trailing whitespace with TRIM()
+- Removed leading/trailing whitespace with
 
-- Fixed inconsistent capitalization with UPPER() and PROPER()
+```
+TRIM()
+```
+
+- Fixed inconsistent capitalization with
+
+```
+UPPER() and PROPER()
+```
 
 - Converted string percentages to decimal values
 
@@ -70,6 +78,10 @@ USB Cables and HDMI Adapters
 - 50%+ Discount Products: Made up nearly 30% of total products
 
 - Potential Revenue Leaders: Electronics category had the highest total review-weighted revenue
+
+#### See the Analyzed Data Here 
+
+[FIle of the Outcome for the Analysis]
 
 ### Dashboard Preview
 
