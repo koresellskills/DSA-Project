@@ -89,7 +89,13 @@ USB Cables and HDMI Adapters
 
 ![02](https://github.com/koresellskills/DSA-Project/blob/c79b0e2b84d35bfe8a2bb41b29aa35c017a4c40e/Screenshot%202025-07-05%20002611.png)
 
-![03]
+![03](https://github.com/koresellskills/DSA-Project/blob/9c8eefa21b37ab76fc2f29b532d59487c90ab4ee/Screenshot%202025-07-05%20002713.png)
+
+![04]
+
+![05]
+
+![06]
 
 ### Recommendations
 
